@@ -1,5 +1,3 @@
-WISP 2.0
-by Haomiao Liu on Frontend and Aahil Awatramani on Backend and Frontend Integration.
 
 STACK:
 
