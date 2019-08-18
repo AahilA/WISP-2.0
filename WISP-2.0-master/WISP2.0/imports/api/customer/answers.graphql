@@ -1,0 +1,12 @@
+
+type Answers {
+    _id: String,
+    username: String,
+    answers: [AnswerSet] 
+}
+
+type AnswerSet {
+    template: String,
+    isComplete: Boolean,
+    answer: String,
+}

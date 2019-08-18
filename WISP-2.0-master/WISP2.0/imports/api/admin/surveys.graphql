@@ -1,0 +1,21 @@
+type Mutation {
+    pushSurvey(json: String): Survey,
+    updateSurvey(_id:String!, json: String,finished:Boolean): Survey,
+
+    sendAnswers(username:String!, isComplete:Boolean!,template:String!, answer:String!): Answers
+}
+
+scalar Date
+
+type Query {
+    getSurveys:[Survey],
+    customers: [Answers],
+    complSurveys: [Answers],
+}
+
+type Survey {
+    json: String,
+    date: Date,
+    _id: String,
+    finished: Boolean
+}

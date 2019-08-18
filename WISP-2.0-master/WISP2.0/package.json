@@ -1,0 +1,43 @@
+{
+  "name": "IPDRR",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.3.4",
+    "@material-ui/core": "^4.2.1",
+    "@material-ui/icons": "^4.2.1",
+    "apollo-boost": "^0.4.2",
+    "apollo-client": "^2.6.2",
+    "apollo-server": "^2.6.3",
+    "apollo-server-express": "^2.6.3",
+    "body-parser": "^1.19.0",
+    "compose": "^0.1.2",
+    "express": "^4.17.1",
+    "graphql": "^14.3.1",
+    "graphql-server-express": "^1.4.0",
+    "graphql-tag": "^2.10.1",
+    "graphql-tools": "^4.0.4",
+    "graphql-type-json": "^0.3.0",
+    "jspdf": "^1.5.3",
+    "lodash": "^4.17.14",
+    "meteor-node-stubs": "^0.4.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-apollo": "^2.5.6",
+    "react-dom": "^16.8.6",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1",
+    "survey-core": "^1.0.96",
+    "survey-pdf": "^1.0.96",
+    "survey-react": "^1.0.96"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "babel-plugin-inline-import": "^3.0.0",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.3"
+  }
+}
