@@ -10,7 +10,7 @@
     "@material-ui/icons": "^4.2.1",
     "apollo-boost": "^0.4.2",
     "apollo-client": "^2.6.2",
-    "apollo-server": "^2.6.3",
+    "apollo-server": "^2.14.2",
     "apollo-server-express": "^2.6.3",
     "body-parser": "^1.19.0",
     "compose": "^0.1.2",
