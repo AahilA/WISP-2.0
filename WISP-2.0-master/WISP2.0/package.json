@@ -21,7 +21,7 @@
     "graphql-tools": "^4.0.4",
     "graphql-type-json": "^0.3.0",
     "jspdf": "^1.5.3",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.19",
     "meteor-node-stubs": "^0.4.1",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
