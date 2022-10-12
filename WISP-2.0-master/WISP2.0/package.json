@@ -20,7 +20,7 @@
     "graphql-tag": "^2.10.1",
     "graphql-tools": "^4.0.4",
     "graphql-type-json": "^0.3.0",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.5.1",
     "lodash": "^4.17.14",
     "meteor-node-stubs": "^0.4.1",
     "prop-types": "^15.7.2",
@@ -30,7 +30,7 @@
     "react-router": "^5.0.1",
     "react-router-dom": "^5.0.1",
     "survey-core": "^1.0.96",
-    "survey-pdf": "^1.0.96",
+    "survey-pdf": "^1.9.53",
     "survey-react": "^1.0.96"
   },
   "devDependencies": {
